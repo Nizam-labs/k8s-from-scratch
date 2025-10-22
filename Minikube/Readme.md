@@ -28,7 +28,7 @@ Click on the buttons that describe your target platform. For other architectures
 
 To install the latest minikube `stable` release on `x86-64` Windows using .exe download:
 ```
- 1. Download and run the installer for the latest release.
+ 1. Download and run the installer for the latest release(https://minikube.sigs.k8s.io/docs/start/?arch=%2Fwindows%2Fx86-64%2Fstable%2F.exe).
 Or if using PowerShell, use this command:
 
 New-Item -Path 'c:\' -Name 'minikube' -ItemType Directory -Force
